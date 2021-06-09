@@ -1,0 +1,14 @@
+C:\Users\bruno.e.sanchez\source\repos\Pasteleria\bin\Debug\Pasteleria.exe.config
+C:\Users\bruno.e.sanchez\source\repos\Pasteleria\bin\Debug\Pasteleria.exe
+C:\Users\bruno.e.sanchez\source\repos\Pasteleria\bin\Debug\Pasteleria.pdb
+C:\Users\bruno.e.sanchez\source\repos\Pasteleria\obj\Debug\Pasteleria.csprojAssemblyReference.cache
+C:\Users\bruno.e.sanchez\source\repos\Pasteleria\obj\Debug\Pasteleria.FrmPasos.resources
+C:\Users\bruno.e.sanchez\source\repos\Pasteleria\obj\Debug\Pasteleria.FrmIngredientes.resources
+C:\Users\bruno.e.sanchez\source\repos\Pasteleria\obj\Debug\Pasteleria.FrmProducto.resources
+C:\Users\bruno.e.sanchez\source\repos\Pasteleria\obj\Debug\Pasteleria.FrmInicio.resources
+C:\Users\bruno.e.sanchez\source\repos\Pasteleria\obj\Debug\Pasteleria.FrmUsuario.resources
+C:\Users\bruno.e.sanchez\source\repos\Pasteleria\obj\Debug\Pasteleria.Properties.Resources.resources
+C:\Users\bruno.e.sanchez\source\repos\Pasteleria\obj\Debug\Pasteleria.csproj.GenerateResource.cache
+C:\Users\bruno.e.sanchez\source\repos\Pasteleria\obj\Debug\Pasteleria.csproj.CoreCompileInputs.cache
+C:\Users\bruno.e.sanchez\source\repos\Pasteleria\obj\Debug\Pasteleria.exe
+C:\Users\bruno.e.sanchez\source\repos\Pasteleria\obj\Debug\Pasteleria.pdb
